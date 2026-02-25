@@ -4,11 +4,11 @@ export const getRelatedSearches = (searchQuery: string): string[] => {
   return [
     'Emily Smith LinkedIn',
     'Emily Smith Facebook',
-    'Emily Smith singer',
-    'Emily Smith folk music',
-    'Emily Smith artist',
+    'Emily Smith teacher',
     'Emily Smith designer',
     'Emily Smith professor',
-    'Emily Smith Instagram'
+    'Emily Smith nurse',
+    'Emily Smith marketing',
+    'Emily Smith accountant'
   ];
 };

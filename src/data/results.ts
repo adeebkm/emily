@@ -654,14 +654,15 @@ export const RESULTS_Emily_Smith: SimResult[] = [
   },
   {
     id: "emily50",
-    platform: "Mulhearn Funeral Home",
-    displayName: "Emily Smith Doughty Obituary February 21, 2026",
-    snippet: "View the obituary for Emily Smith Doughty, who passed away on February 21, 2026. Share memories and condolences with the family.",
-    urlLike: "www.mulhearnfuneralhome.com › obituaries › e...",
+    platform: "Nextdoor",
+    displayName: "Emily Smith - Recommended Tutor in Portland",
+    snippet: "Neighbors recommend Emily Smith for tutoring services in the Portland area. Specializes in math and science tutoring for grades 6-12. Highly rated.",
+    urlLike: "nextdoor.com › pages › emily-smith-tutoring",
     discoverability: "Low",
     footprint: "Absent",
     race: "White American",
-    location: "",
+    location: "Portland, OR",
+    currentRole: "Tutor",
     imageKey: "avatar10"
   },
 ];
